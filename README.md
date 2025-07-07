@@ -1,4 +1,4 @@
-Sales Dashboard Project
+Product Analysis Dashboard 
 This project is an interactive Sales Dashboard built to visualize and analyze sales performance using a dataset of 10,000+ transactions. It helps businesses gain insights into product categories, regional trends, customer behavior, and profitability over time.
 
 🧾 Dataset Overview
